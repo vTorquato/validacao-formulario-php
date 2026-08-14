@@ -1,6 +1,6 @@
 # Validação de Formulário PHP (Seguro e Funcional)
 
-Este é um projeto simples de um sistema de captura de dados via formulário HTML, processado por um script PHP. O foco principal foi aplicar boas práticas de validação e segurança para iniciantes.
+Este é um projeto simples de um sistema de captura de dados via formulário HTML, processado por um script PHP. 
 
 ## 🚀 Funcionalidades
 
