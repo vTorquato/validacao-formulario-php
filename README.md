@@ -1,4 +1,4 @@
-# Validação de Formulário PHP (Seguro e Funcional)
+# Validação de Formulário PHP
 
 Este é um projeto simples de um sistema de captura de dados via formulário HTML, processado por um script PHP. 
 
